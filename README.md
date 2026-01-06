@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst | Storyteller with Data
 
-I’m a **Data Analyst** passionate about uncovering insights from data and transforming them into **actionable stories** that drive decision-making. I enjoy working with data end-to-end — from cleaning and analysis to visualization and presentation.
+I’m a Data Analyst passionate about uncovering meaningful insights from data and transforming complex information into clear, actionable stories that support data-driven decision-making. I enjoy working across the entire data lifecycle — from data collection, cleaning, and transformation to in-depth analysis, visualization, and presenting insights in a way that is both intuitive and impactful for stakeholders.
 
 ---
 
@@ -25,6 +25,22 @@ I’m a **Data Analyst** passionate about uncovering insights from data and tran
 - **Jupyter Notebook**
 - **Google Sheets**
 
+---
+## 🎓 Education
+- **Master’s Degree**  
+  *(Master in Data Science, Heriot Watt University, UK - 2023-2024)*
+- **Master’s Degree**  
+  *(Master in Computer Science and Engineering, Anna University,India- 2010-2012)*
+- **Bachelor’s Degree**  
+  *(Bachelor in Computer Science and Engineering, Anna University,India - 2006-2010)*
+---
+## 📜 Certifications
+- **Salesforce & Tableau Data Analyst** – Salesforce *(Oct 2025)*
+- **Master Certification in Data Science** – Simplilearn *(Training)*
+- **R for Data Science** *(Training)*
+- **Applied Data Science with Python** *(Training)*
+- **Deep Learning** *(Training)*
+- **SQL for Data Science** *(Training)*
 ---
 
 ## 👩‍💻 About Me
