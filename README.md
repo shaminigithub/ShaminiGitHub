@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shamini!
+# Hi,I'm Shamini!
 
 ### 📊 Data Analyst | Storyteller with Data
 
