@@ -56,5 +56,69 @@ I’m a Data Analyst passionate about uncovering meaningful insights from data a
 
 ---
 
+
+## 📂 Portfolio Projects
+
+In this section, I showcase data analytics projects with documentation that includes **source code, analysis steps, and screenshots**.
+
+---
+
+### 📊 Sales Performance Dashboard (Tableau)
+
+**Goal:**  
+To analyze and compare sales performance across multiple regions to support data-driven decision-making.
+
+**Description:**  
+Analyzed regional sales performance data and built an interactive Tableau dashboard highlighting KPIs and regional trends.
+
+📄 **Project Documentation:**  
+[View Project Document](Portfolio-Projects/Sales-Performance-Dashboard/Sales_Performance_Dashboard.docx)
+
+**Skills:**  
+Data cleaning, KPI analysis, dashboard design, data visualization.
+
+**Technology:**  
+Tableau, Excel.
+
+---
+
+### 👥 Employee Database & Performance Analysis (SQL)
+
+**Goal:**  
+To evaluate employee performance, salaries, and training needs through HR analytics.
+
+**Description:**  
+Designed and queried employee databases using SQL to generate structured HR performance reports.
+
+📄 **Project Documentation:**  
+[View Project Document](Portfolio-Projects/Employee-Performance-Analysis/Employee_Analytics_SQL.docx)
+
+**Skills:**  
+SQL querying, database design, reporting, HR analytics.
+
+**Technology:**  
+MySQL, SQL, Power BI.
+
+---
+
+### 🚗 Vehicle Loan Default Prediction & Credit Risk Analysis
+
+**Goal:**  
+To identify key risk factors contributing to vehicle loan defaults.
+
+**Description:**  
+Performed EDA and built a logistic regression model to predict loan defaults, with insights visualized using Tableau.
+
+📄 **Project Documentation:**  
+[View Project Document](Portfolio-Projects/Vehicle-Loan-Default-Prediction/Vehicle_Loan_Default_Prediction.docx)
+
+**Skills:**  
+EDA, predictive modeling, logistic regression, risk analysis.
+
+**Technology:**  
+Python, Pandas, Scikit-learn, Tableau.
+
+---
+
 ✨ *Always curious. Always learning. Always exploring data.*
 
