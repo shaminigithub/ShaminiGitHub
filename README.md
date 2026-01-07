@@ -90,8 +90,8 @@ To evaluate employee performance, salaries, and training needs through HR analyt
 **Description:**  
 Designed and queried employee databases using SQL to generate structured HR performance reports.
 
-📄 **Project Documentation:**  
-[View Project Document](Portfolio-Projects/Employee-Performance-Analysis/Employee_Analytics_SQL.docx)
+📄 **Code:**  
+(https://github.com/shaminigithub/Portfolio-Projects/blob/main/Employee_Performance.sql)
 
 **Skills:**  
 SQL querying, database design, reporting, HR analytics.
