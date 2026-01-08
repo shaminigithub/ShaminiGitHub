@@ -73,7 +73,7 @@ Tableau, Excel, Data Cleaning & Visualization.
 **Description:**  
 This project involved analyzing regional sales data to evaluate performance differences and identify trends across two geographic regions. The dataset was first cleaned and prepared using Excel to ensure accuracy and consistency. Key performance indicators (KPIs) such as total sales, regional contribution, and growth trends were identified and analyzed. An interactive Tableau dashboard was then developed to visually represent these insights, allowing users to filter by region and time period. The dashboard enabled management to quickly identify underperforming areas, track regional trends, and make informed decisions to improve overall sales strategy.
 
-📄 **Code:** [Sales Performance Dashboard (Tableau).twbx](Region_Sales_Performance.twbx)
+📄 **Code:** [Sales Performance Dashboard (Tableau).twbx](https://github.com/shaminigithub/Portfolio-Projects/blob/main/Region_Sales_Performance.twbx)
 
 **Skills:**  
 Data cleaning, KPI analysis, dashboard design, data visualization.
