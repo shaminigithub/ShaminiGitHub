@@ -91,7 +91,7 @@ MySQL, SQL Queries, Data Analysis, Reporting.
 **Description:**  
 This project focused on building and analyzing an employee database to support HR decision-making. A structured relational database was created using MySQL to store employee details, roles, performance ratings, and salary information. Advanced SQL queries were written to analyze employee performance trends, identify salary distribution patterns, and assess training requirements. The resulting reports provided actionable insights that helped enhance the accuracy of performance appraisals, improve workforce planning, and support data-driven HR decisions.
 
-📄 **Code:** [Employee Database & Performance Analysis (ScienceQtech).sql](https://github.com/shaminigithub/ShaminiGitHub/blob/main/Employee_Performance.sql)
+📄 **Code:** [Employee Database & Performance Analysis (ScienceQtech).sql](https://github.com/shaminigithub/Portfolio-Projects/blob/main/Employee_Performance.sql)
 
 **Skills:**  
 SQL querying, database design, reporting, HR analytics.
