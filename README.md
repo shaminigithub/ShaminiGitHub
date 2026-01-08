@@ -109,7 +109,7 @@ Python (Pandas, Scikit-learn), Tableau, Logistic Regression, EDA.
 **Description:**  
 This project involved analyzing loan and customer data to identify patterns associated with vehicle loan defaults. The data was cleaned, preprocessed, and explored using Python to uncover trends and relationships between customer attributes and default behavior. Exploratory Data Analysis (EDA) was conducted to identify key risk indicators. A logistic regression model was then developed to predict the likelihood of loan default. The results were visualized using a Tableau dashboard, enabling stakeholders to better understand credit risk factors, improve risk assessment processes, and reduce potential loan default rates.
 
-📄 **Code:** [Vehicle Loan Default Prediction & Credit Risk Analysis.ipynb](Vehicle_Loan_Prediction.ipynb)
+📄 **Code:** [Vehicle Loan Default Prediction & Credit Risk Analysis.ipynb](https://github.com/shaminigithub/Portfolio-Projects/blob/main/Vehicle_Loan_Prediction.ipynb)
 
 **Skills:**  
 EDA, predictive modeling, logistic regression, risk analysis.
