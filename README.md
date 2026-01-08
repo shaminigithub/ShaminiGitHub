@@ -56,64 +56,63 @@ I’m a Data Analyst passionate about uncovering meaningful insights from data a
 
 ---
 
+# 📂 Portfolio Projects
 
-## 📂 Portfolio Projects
-
-In this section, I showcase data analytics projects with documentation that includes **source code, analysis steps, and screenshots**.
+This section highlights my capstone and portfolio projects, demonstrating my ability to apply data analytics techniques to real-world business and analytical problems. Each project includes a clear objective, tools used, and a detailed description of the approach and outcomes.
 
 ---
 
-### 📊 Sales Performance Dashboard (Tableau)
+### 📊 Project: Sales Performance Dashboard (Tableau)
 
-**Goal:**  
-To analyze and compare sales performance across multiple regions to support data-driven decision-making.
+**Objective:**  
+Analyzed and compared sales performance across two regions to support data-driven decision-making.
+
+**Tools:**  
+Tableau, Excel, Data Cleaning & Visualization.
 
 **Description:**  
-Analyzed regional sales performance data and built an interactive Tableau dashboard highlighting KPIs and regional trends.
+This project involved analyzing regional sales data to evaluate performance differences and identify trends across two geographic regions. The dataset was first cleaned and prepared using Excel to ensure accuracy and consistency. Key performance indicators (KPIs) such as total sales, regional contribution, and growth trends were identified and analyzed. An interactive Tableau dashboard was then developed to visually represent these insights, allowing users to filter by region and time period. The dashboard enabled management to quickly identify underperforming areas, track regional trends, and make informed decisions to improve overall sales strategy.
 
-📄 **Code:** [Sales Performance Dashboard.twbx](Region_Sales_Performance.twbx)
+📄 **Code:** [Sales Performance Dashboard (Tableau).twbx](Region_Sales_Performance.twbx)
 
 **Skills:**  
 Data cleaning, KPI analysis, dashboard design, data visualization.
 
-**Technology:**  
-Tableau, Excel.
-
 ---
 
-### 👥 Employee Database & Performance Analysis (SQL)
+### 👥 Project: Employee Database & Performance Analysis (ScienceQtech)
 
-**Goal:**  
-To evaluate employee performance, salaries, and training needs through HR analytics.
+**Objective:**  
+Generated HR analytics reports to evaluate employee performance, salaries, and training needs.
+
+**Tools:**  
+MySQL, SQL Queries, Data Analysis, Reporting.
 
 **Description:**  
-Designed and queried employee databases using SQL to generate structured HR performance reports.
+This project focused on building and analyzing an employee database to support HR decision-making. A structured relational database was created using MySQL to store employee details, roles, performance ratings, and salary information. Advanced SQL queries were written to analyze employee performance trends, identify salary distribution patterns, and assess training requirements. The resulting reports provided actionable insights that helped enhance the accuracy of performance appraisals, improve workforce planning, and support data-driven HR decisions.
 
-📄 **Code:** [Employee_Performance.sql](Employee_Performance.sql)
+📄 **Code:** [Employee Database & Performance Analysis (ScienceQtech).sql](Employee_Performance.sql)
 
 **Skills:**  
 SQL querying, database design, reporting, HR analytics.
 
-**Technology:**  
-MySQL, SQL, Power BI.
-
 ---
 
-### 🚗 Vehicle Loan Default Prediction & Credit Risk Analysis
+### 🚗 Project: Vehicle Loan Default Prediction & Credit Risk Analysis
 
-**Goal:**  
-To identify key risk factors contributing to vehicle loan defaults.
+**Objective:**  
+Predicted vehicle loan defaulters and identified key risk factors to improve credit scoring.
+
+**Tools:**  
+Python (Pandas, Scikit-learn), Tableau, Logistic Regression, EDA.
 
 **Description:**  
-Performed EDA and built a logistic regression model to predict loan defaults, with insights visualized using Tableau.
+This project involved analyzing loan and customer data to identify patterns associated with vehicle loan defaults. The data was cleaned, preprocessed, and explored using Python to uncover trends and relationships between customer attributes and default behavior. Exploratory Data Analysis (EDA) was conducted to identify key risk indicators. A logistic regression model was then developed to predict the likelihood of loan default. The results were visualized using a Tableau dashboard, enabling stakeholders to better understand credit risk factors, improve risk assessment processes, and reduce potential loan default rates.
 
-📄 **Code:** [Vehicle Loan Prediction.ipynb](Vehicle_Loan_Prediction.ipynb)
+📄 **Code:** [Vehicle Loan Default Prediction & Credit Risk Analysis.ipynb](Vehicle_Loan_Prediction.ipynb)
 
 **Skills:**  
 EDA, predictive modeling, logistic regression, risk analysis.
-
-**Technology:**  
-Python, Pandas, Scikit-learn, Tableau.
 
 ---
 
